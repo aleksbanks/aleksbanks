@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksbanks&show_icons=true&theme=dracula)
+![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksbanks&show_icons=true&theme=dracula)
 <!--
 **aleksbanks/aleksbanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
