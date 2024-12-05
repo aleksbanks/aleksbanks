@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Frontend (mostly React) Software Engineer<br>
-🌱 I’m currently working on my own UI library using React, Typescript and Storybook<br>
+🌱 I’m currently working on my own UI library using React, Typescript and Storybook <br/>and an Reward app for my daughter using Node.js, Express, React and Typescript<br>
 ⚡ Fun fact: I just moved to Florida
 
 ## 💻 Tech Stack:
@@ -9,6 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=flat&logo=rollup.js&logoColor=white)
