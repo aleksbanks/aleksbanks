@@ -30,10 +30,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aleks_banks) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aaaaaleks7) 
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=aleksbanks&theme=dark&hide_border=false)<br/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aleksbanks&icon=0&color=0)](https://visitcount.itsvg.in)
 
