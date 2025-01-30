@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Frontend (mostly React) Software Engineer<br>
-🌱 I’m currently working on my own UI library using React, Typescript and Storybook <br/>and an Reward app for my daughter using Node.js, Express, React and Typescript<br>
+🔭 Frontend (React) Software Engineer<br>
+🌱 I’m currently working on multiple project using React, Typescript, Storybook and Node.js, Express<br>
 ⚡ Fun fact: I just moved to Florida
 
 ## 💻 Tech Stack:
