@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Frontend (React) Software Engineer<br>
 🌱 I’m currently working on multiple project using React, Typescript, Storybook and Node.js, Express<br>
-⚡ Fun fact: I just moved to Florida
+⚡ Fun fact: I blend code, creativity, and running, enjoying development, crocheting, gaming, reading and improving my runs at my own pace.
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
