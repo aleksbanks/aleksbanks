@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Frontend (React) Software Engineer<br>
-🌱 I’m currently working on multiple project using React, Typescript, Storybook and Node.js, Express<br>
+🌱 I’m currently working on multiple project using React, Typescript and other technologies<br>
 ⚡ Fun fact: I blend code, creativity, and running, enjoying development, crocheting, gaming, reading and improving my runs at my own pace.
 
 ## 💻 Tech Stack:
