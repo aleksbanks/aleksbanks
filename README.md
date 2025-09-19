@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Frontend (React) Software Engineer<br>
-🌱 I’m currently working on multiple project using React, Typescript and other technologies<br>
-⚡ Fun fact: I blend code, creativity, and running, enjoying development, crocheting, gaming, reading and improving my runs at my own pace.
+🌱 Currently building multiple projects using React, TypeScript, and modern web tech<br>
+⚡ Fun fact: If I’m not writing code, I’m probably reading fantasy or chasing a new PR on Strava.
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
